@@ -1,0 +1,5 @@
+{
+  "name": "My Websites Portfolio",
+  "description": "A visually appealing application to manage and display a list of your personal websites in a card-based layout. You can add, edit, and delete your website entries.",
+  "requestFramePermissions": []
+}
